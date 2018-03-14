@@ -1,12 +1,10 @@
 ---
 layout: post
 category: notes
+excerpt_separator: <!--more-->
 title: Swatches. A Place to Think About Color on the Web
 ---
 
----
-excerpt_separator: <!--more-->
----
 
 <head>
     <title>pygments</title>
