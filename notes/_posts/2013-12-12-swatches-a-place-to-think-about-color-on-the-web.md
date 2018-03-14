@@ -7,8 +7,8 @@ title: Swatches. A Place to Think About Color on the Web
 
 
 <head>
-    <title>pygments</title>
-    <link media="all" rel="stylesheet" href="/css/pygments.css" />
+    <title>rouge</title>
+    <link media="all" rel="stylesheet" href="/css/rouge.css" />
 </head>
 
 <body>
