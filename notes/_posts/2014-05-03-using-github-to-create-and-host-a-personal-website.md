@@ -8,4 +8,23 @@ title: Using GitHub to Create and Host a Personal Website
 def foo
   puts 'foo'
 end
+
+
+
+def foo
+  puts 'foo'
+end
+
+
+
+def foo
+  puts 'foo'
+end
+
+
+
+def foo
+  puts 'foo'
+end
+
 {% endhighlight %}
