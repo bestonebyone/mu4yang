@@ -4,6 +4,15 @@ category: notes
 title: Swatches. A Place to Think About Color on the Web
 ---
 
+---
+excerpt_separator: <!--more-->
+---
+
+Excerpt
+<!--more-->
+Out-of-excerpt
+
+
 <head>
     <title>pygments</title>
     <link media="all" rel="stylesheet" href="/css/pygments.css" />
