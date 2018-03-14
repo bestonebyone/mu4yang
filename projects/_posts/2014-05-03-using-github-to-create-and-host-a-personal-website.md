@@ -1,7 +1,7 @@
 ---
 layout: post
 category: projects
-title: Using GitHub to Create and Host a Personal Website
+title: B
 ---
 This is an overdue note about my switch to using GitHub and Jekyll for this website.
 
