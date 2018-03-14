@@ -7,7 +7,7 @@ title: Swatches. A Place to Think About Color on the Web
 
 
 <head>
-    <title>rouge</title>
+    <title>Rouge</title>
     <link media="all" rel="stylesheet" href="/css/rouge.css" />
 </head>
 
