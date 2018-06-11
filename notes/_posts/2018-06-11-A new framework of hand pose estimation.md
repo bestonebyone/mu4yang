@@ -61,11 +61,13 @@ Below is the pipline
     * \\(Enc_f(image) = z, \quad  Dec_f(z) = image\\)
     * \\(Enc_g(pose,viewpoint) = z,\quad Dec_g(z) = heatmap\\)
     * The overview of the Cross-modal VAE is below  
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<img src="\notes\img\2018-06-11-1.png" width="80%" align="middle" />
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img src="\notes\img\2018-06-11-1.png" width="80%" align="middle" />
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
 2. Define the distance between image and pose with viewpoint.
     * \\(dist(image,pose,viewpoint) = Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image)).\\)
 3. Train a traditional 3D pose estimator.
