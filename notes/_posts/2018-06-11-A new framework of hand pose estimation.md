@@ -63,7 +63,7 @@ Below is the pipline
     * The overview of the Cross-modal VAE is below  
 &nbsp;&nbsp;
 &nbsp;&nbsp;
-<img src="\notes\img\2018-06-11-1.png" width="60%" align="middle" />
+<img src="\notes\img\2018-06-11-1.png" width="80%" align="middle" />
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 2. Define the distance between image and pose with viewpoint.
