@@ -44,8 +44,6 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 [comment]: <> (Below are essay)
 
-# My new framework of hand pose estimation
-
 ## Algorithm overview
 
 * RGB image -> all possible poses
