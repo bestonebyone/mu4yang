@@ -1,7 +1,6 @@
 ---
 layout: post
 category: notes
-excerpt_separator: <!--more-->
 title: My new framework of hand pose estimation
 ---
 [comment]: <> (Below is MathJax)
