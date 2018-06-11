@@ -69,7 +69,7 @@ Below is the pipline
     &nbsp;&nbsp;
     &nbsp;&nbsp;
 2. Define the distance between image and pose with viewpoint.
-    * \\(dist(image,pose,viewpoint) = \|Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image))\|^2.\\)
+    * \\(dist(image,pose,viewpoint) = \|\|Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image))\|\|^2.\\)
 3. Train a traditional 3D pose estimator.
     * \\( keyPose = Estimator(image) \\)
 4. Define pose neighbor generator based on viewpoint and joint angle <sup>[2]</sup>.
