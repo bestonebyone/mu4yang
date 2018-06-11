@@ -69,12 +69,12 @@ Below is the pipline
     &nbsp;&nbsp;
     &nbsp;&nbsp;
 2. Define the distance between image and pose with viewpoint.
-    * \\(dist(image,pose,viewpoint) = Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image)).\\)
+    * \\(dist(image,pose,viewpoint) = \|Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image))\|^2.\\)
 3. Train a traditional 3D pose estimator.
     * \\( keyPose = Estimator(image) \\)
 4. Define pose neighbor generator based on viewpoint and joint angle <sup>[2]</sup>.
     * \\(Neighbors = Generator(keyPose).\\)
-5. Set a distance theshold and Calculate the distance between Neighbors and image. If the distance less than the theshold, then this neighbor is a possible solution.
+5. Set a distance threshold and Calculate the distance between Neighbors and image. If the distance less than the threshold, then this neighbor is a possible solution.
 6. Define occlusion model for the occluded hand joint <sup>[3]</sup> and use all the solution to fit the model.
 
 ## Reference
