@@ -54,12 +54,12 @@ Superscript and subscript
 * Temporal information -> maximum possible pose
 
 Below is the pipline  
-<img src="\notes\img\2018-06-11-2.png" />
+<img src="\notes\img\2018-06-11-2.png" width="50%" />
 
 1. Train Cross-modal VAE <sup>[1]</sup>.
     * \\(Enc_f(image) = z, \quad  Dec_f(z) = image\\)
     * \\(Enc_g(pose,viewpoint) = z,\quad Dec_g(z) = heatmap\\)
-    * The overview of the Cross-modal VAE is below <img src="\notes\img\2018-06-11-1.png" />
+    * The overview of the Cross-modal VAE is below <img src="\notes\img\2018-06-11-1.png" width="30%" />
 
 2. Define the distance between image and pose with viewpoint.
     * \\(dist(image,pose,viewpoint) = Dec_f(Enc_g(pose,viewpoint)) - Dec_f(Enc_f(image)).\\)
