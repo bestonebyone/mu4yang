@@ -62,6 +62,9 @@ Below is the pipline
     * \\(Enc_g(pose,viewpoint) = z,\quad Dec_g(z) = heatmap\\)
     * The overview of the Cross-modal VAE is below  
 <br />
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="\notes\img\2018-06-11-1.png" width="40%" align="middle" />
 <br />
 2. Define the distance between image and pose with viewpoint.
