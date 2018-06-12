@@ -52,7 +52,7 @@ Superscript and subscript
 
 The proposed framework has so many place confuse me. I am not sure it is reasonable. So I try to ask myself some questions and make myself understand the framework well.
 
-[The link of proposed pipline is here.]("\notes\img\2018-06-11-A new framework of hand pose estimation.md")
+[The link of proposed pipline is here.]("\notes\2018-06-11-A new framework of hand pose estimation.md")
 
 ## Question and Answer
 
