@@ -1,7 +1,7 @@
 ---
 layout: post
 category: notes
-title: Template
+title: Template of Note
 ---
 [comment]: <> (Below is MathJax)
 
@@ -47,5 +47,3 @@ Superscript and subscript
 -->
 
 [comment]: <> (Below are essay)
-
-## Framework overview
