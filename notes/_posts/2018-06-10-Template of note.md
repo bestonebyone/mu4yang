@@ -44,6 +44,10 @@ Superscript and subscript
 
 <sup>superscript</sup>
 <sub>subscript</sub>
+
+To write some speical character 
+use \
+
 -->
 
 [comment]: <> (Below are essay)
