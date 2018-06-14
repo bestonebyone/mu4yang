@@ -6,7 +6,7 @@ title: Learning Tensorflow
 
 ## A new idea of shared latent space with respect to many to many mapping
 Hope this idea is interesting.
-<img src="\notes\img\2018-06-14-1.png" width="80%" align="middle" />
+<img src="\notes\img\2018-06-14-2.png" width="80%" align="middle" />
 
 
 ## Metric Learning
