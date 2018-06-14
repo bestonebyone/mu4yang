@@ -34,7 +34,9 @@ I want to find a function to calculate the distance between pose and image. I am
     {% endhighlight %}
 </body>
 
-## some function of Tensorflow
+## some function of Tensorflow or python
+
+os.makedirs and os.mkdir
 
 tf.layers.batch_normalization()
 Tensorflow-slim
