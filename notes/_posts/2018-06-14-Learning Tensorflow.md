@@ -3,13 +3,17 @@ layout: post
 category: notes
 title: Learning Tensorflow
 ---
+
+## Metric Learning
+I want to find a function to calculate the distance between pose and image. I am wondering if the knowledge of metric learning will be beneficial.
+
+## Tensorflow model save and restore
 <head>
     <title>Rouge</title>
     <link media="all" rel="stylesheet" href="/css/rouge.css" />
 </head>
 
 <body>
-    ## Tensorflow model save and restore
     
     {% highlight python %}
 	with tf.Session() as sess:
@@ -29,3 +33,9 @@ title: Learning Tensorflow
         # run each train step
     {% endhighlight %}
 </body>
+
+## some function of Tensorflow
+
+tf.layers.batch_normalization()
+Tensorflow-slim
+Tensorflow Tensorboard
