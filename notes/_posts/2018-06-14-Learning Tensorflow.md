@@ -4,6 +4,11 @@ category: notes
 title: Learning Tensorflow
 ---
 
+## A new idea of shared latent space with respect to many to many mapping
+Hope this idea is interesting.
+<img src="\notes\img\2018-06-14-1.png" width="80%" align="middle" />
+
+
 ## Metric Learning
 I want to find a function to calculate the distance between pose and image. I am wondering if the knowledge of metric learning will be beneficial.
 
