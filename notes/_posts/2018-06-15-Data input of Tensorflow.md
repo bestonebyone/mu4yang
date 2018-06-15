@@ -8,10 +8,10 @@ title: Data input of Tensorflow
 
 ### 1.Use python to convert dataset into binary files(BinaryDBcreater)
 
-import pickle
-import os
-import scipy.misc
-import struct
+import pickle  
+import os  
+import scipy.misc  
+import struct  
 
 * pickle 是python中, 压缩/保存/提取 文件的模块
 * os 文件操作 os.mkdir os.path.exists
