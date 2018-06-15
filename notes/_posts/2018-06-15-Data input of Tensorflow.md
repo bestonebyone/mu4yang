@@ -30,3 +30,42 @@ import struct
 *  _, value = reader.read(tf.train.string_input_producer([path_to_db]))
 * tf.decode_raw only for one type. So if the data is in different type, should use it for several times.
 *  tf.reshape tf.slice tf.cast
+
+
+### The input framework of tensorflow
+
+<head>
+    <title>python</title>
+    <link media="all" rel="stylesheet" href="/css/rouge.css" />
+</head>
+
+<body>
+    {% highlight python %}
+	files_in = ["./data/data_batch%d.bin" % i for i in range(1, 6)]
+    files = tf.train.string_input_producer(files_in)
+    reader = tf.FixedLengthRecordReader(record_bytes = 1024)
+    key, value = reader.read(files)
+    data = tf.decode_raw(value, tf.uint8)
+
+    label = tf.cast(tf.slice(data, [0], [1]), tf.int64)
+    # tf.slice(inputs, begin, size, name='')
+    raw_image = tf.reshape(tf.slice(data, [1], [32*32*3]), [3, 32, 32])
+    image = tf.cast(tf.transpose(raw_image, [1, 2, 0]), tf.float32)
+
+    lr_image = tf.image.random_flip_left_right(image)
+    br_image = tf.image.random_brightness(lr_image, max_delta=63)
+    rc_image = tf.image.random_contrast(br_image, lower=0.2, upper=1.8)
+
+    std_image = tf.image.per_image_standardization(rc_image)
+    # 用tf.train.batch或者tf.train.shuffle_batch把一个一个小样本的tensor打包成样本batch，这些函数的输入是单个样本，输出就是4D的样本batch了
+    images, labels = tf.train.batch([std_image, label],
+                           batch_size=100,
+                           num_threads=16,
+                           capacity=int(50000* 0.4 + 3 * batch_size))
+    # image和label一定要一起run，要记清楚我们的image和label是在一张graph里边的，跑一次那个graph，这两个tensor都会出结果，要是分开跑，出来的图像和标签不对应
+    tf.train.start_queue_runners(sess=self.sess)
+    # tf.train.start_queue_runners(sess=sess)这一步一定要运行，且其位置要在定义好读取graph之后，在真正run之前，其作用是把queue里边的内容初始化，不跑这句一开始string_input_producer那里就没调用
+    real_images, real_labels = sess.run([training_images, training_labels])
+
+    {% endhighlight %}
+</body>
