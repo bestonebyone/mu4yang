@@ -41,7 +41,7 @@ import struct
 
 <body>
     {% highlight python %}
-	files_in = ["./data/data_batch%d.bin" % i for i in range(1, 6)]
+    files_in = ["./data/data_batch%d.bin" % i for i in range(1, 6)]
     files = tf.train.string_input_producer(files_in)
     reader = tf.FixedLengthRecordReader(record_bytes = 1024)
     key, value = reader.read(files)
