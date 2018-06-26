@@ -21,9 +21,9 @@ After I google it, I found I misuse the batch norm function. In the website of t
 
 <body>
     {% highlight python %}
-	update_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS)
-    with tf.control_dependencies(update_ops):
-        train_op = optimizer.minimize(loss)
+update_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS)
+with tf.control_dependencies(update_ops):
+    train_op = optimizer.minimize(loss)
     {% endhighlight %}
 </body>
 
@@ -77,6 +77,7 @@ TF可以协调多个数据流，在存在依赖的节点下非常有用，例如
 </head>
 
 <body>
+        {% highlight python %}
 x = tf.Variable(0.0)
 #返回一个op，表示给变量x加1的操作
 x_plus_1 = tf.assign_add(x, 1)
@@ -125,6 +126,7 @@ with tf.Session() as session:
         print(y.eval())
 # it prints 1, 2, 3, 4, 5.
 # 相当于 y=x 同时 y的类型变成了tensor
+    {% endhighlight %}
 </body>
 
 另外，不论是即使更新还是一步训练后再对所有均值方差一起更新，对测试数据是没有影响的，即测试数据使用的都是保存的模型中的均值方差数据，但是如果你在训练中需要测试，而忘了将is_training这个值改成false，那么这批测试数据将会综合当前批数据的均值方差和训练数据的均值方差。而这样做应该是不正确的。
