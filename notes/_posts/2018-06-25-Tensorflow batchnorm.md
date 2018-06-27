@@ -134,7 +134,7 @@ with tf.Session() as session:
 TensorFlow中维护的集合列表，在一个计算图中，可以通过集合(collection)来管理不同类别的资源。比如通过 tf.add_to_collection 函数可以将资源加入一个 或多个集合中，然后通过 tf.get_collection 获取一个集合里面的所有资源(如张量，变量，或者运行TensorFlow程序所需的队列资源等等)
 
 集合名称|集合内容|使用场景
-- | :-: | -: 
+- | :- | :- 
 tf.GraphKeys.VARIABLES|	所有变量|	持久化 TensorFlow 模型
 tf.GraphKeys.TRAINABLE_VARIABLES|	可学习的变量(一般指神经网络中的参数)|模型训练、生成模型可视化内容
 tf.GraphKeys.SUMMARIES|日志生成相关的张量|TensorFlow 计算可视化
