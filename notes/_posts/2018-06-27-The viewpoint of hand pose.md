@@ -14,9 +14,13 @@ Professor come back from cvpr conference and discuss with me this morning.
 
 - Professor mention that Ref.[3] is also very interesting. It makes the hand pose manifold space more complete.
 
+- Professor thinks that hand pose estiamtion from depth data is now some kind of getting to the bottleneck. Because the accuracy is already very high. Most of the better performance are just noise, fine tuning like that.
+
+- Porfessor agrees that most of the hand pose is estimated from images and if we research on frames that using the **temporal** information. This will be interesting. 
+
 
 
 ## Reference
-[1] Global versus Localized Generative Adversarial Nets
-[2] Stereo Magnification: Learning view synthesis using multiplane images
-[3] Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation
+[1] Global versus Localized Generative Adversarial Nets  
+[2] Stereo Magnification: Learning view synthesis using multiplane images  
+[3] Augmented Skeleton Space Transfer for Depth-based Hand Pose Estimation  
