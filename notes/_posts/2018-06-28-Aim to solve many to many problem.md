@@ -21,3 +21,5 @@ So here, inspired by localized GANs, I come up an idea. maybe the separate part 
 At last, there is one problem. If there are two constraints on the latent space, it may not work. So I must make sure that. The first step I decide is pose to pose with this new constraints.
 
 This idea may be considerd as conditional VAE.
+
+My first purpose is a better random walk between two hand pose. We can find different way to get one pose to another pose. And all the way is plausiable.
