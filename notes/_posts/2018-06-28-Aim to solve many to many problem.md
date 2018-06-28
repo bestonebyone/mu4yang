@@ -22,4 +22,4 @@ At last, there is one problem. If there are two constraints on the latent space,
 
 This idea may be considerd as conditional VAE.
 
-My first purpose is a better random walk between two hand pose. We can find different way to get one pose to another pose. And all the way is plausiable.
+**My first purpose is a better random walk between two hand pose. We can find different way to get one pose to another pose. And all the way is plausiable.**
