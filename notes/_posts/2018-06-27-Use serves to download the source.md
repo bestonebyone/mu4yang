@@ -17,7 +17,8 @@ If you use curl/wget, it fails with a large file because of the security warning
 
 ## linux 下的解压缩、分卷
 
-###tar指令压缩
+### tar指令压缩
+
 下面的列表中显示了tar指令的纤细参数，其实主要的几个参数也就那么几个，使用tar指令可以直接分卷（不过这个分卷没有直接用过）
 
 tar czvf file.tgz file/   //讲目录或者文件file压缩为file.tgz  
@@ -50,7 +51,8 @@ tar -xf all.tar
 
 这条命令是解出all.tar包中所有文件，-t是解开的意思
 
-###压缩
+### 压缩
+
 tar –cvf jpg.tar *.jpg //将目录里所有jpg文件打包成tar.jpg
 
 tar –czf jpg.tar.gz *.jpg //将目录里所有jpg文件打包成jpg.tar后，并且将其用gzip压缩，生成一个gzip压缩过的包，命名为jpg.tar.gz
@@ -63,7 +65,8 @@ rar a jpg.rar *.jpg //rar格式的压缩，需要先下载rar for linux
 
 zip jpg.zip *.jpg //zip格式的压缩，需要先下载zip for linux
 
-###解压
+### 解压
+
 tar –xvf file.tar //解压 tar包
 
 tar -xzvf file.tar.gz //解压tar.gz
