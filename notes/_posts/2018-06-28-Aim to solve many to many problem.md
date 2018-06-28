@@ -16,6 +16,7 @@ According CrossVAE, we know that it is reasonable to have shared latent space. H
 <img src="\notes\img\2018-06-14-1.png" width="80%" align="middle" />
 
 So here, inspired by localized GANs, I come up an idea. maybe the separate part can be get from noise.
+
 <img src="\notes\img\2018-06-28-1.png" width="50%" align="middle" />
 
 At last, there is one problem. If there are two constraints on the latent space, it may not work. So I must make sure that. The first step I decide is pose to pose with this new constraints.
