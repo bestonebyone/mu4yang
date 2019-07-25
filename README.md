@@ -1,7 +1,6 @@
 Personal website
 ========
 bestonebyone.github.io
-mu4yang.com
 
 In order to build my personal website, I followed the work published in Github.
 
