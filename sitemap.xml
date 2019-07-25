@@ -2,6 +2,11 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://mu4yang.com</loc>
+    </url>
+
     {% for post in site.posts %}
     <url>
         <loc>http://mu4yang.com{{ post.url | remove: 'index.html' }}</loc>
