@@ -43,7 +43,3 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
   **Linlin Yang**, Chen Chen, Hainan Wang, Baochang Zhang and Jungong Han  
   Proceedings of the Pacific-Rim Conference on Multimedia(PCM), 2016.  
   [[pdf]](https://www.mu4yang.com/files/papers/Adaptive%20Multi-class%20Correlation%20Filters.pdf)
-
-- **Scale Invariant Kernelized Correlation Filter Based on Gaussian Output**  
-  Xiangbo Su, Baochang Zhang, **Linlin Yang**, Zhigang Li and Yun Yang  
-  Proceedings of the International Conference on Cloud Computing and Security(ICCCS), 2016.  
