@@ -23,7 +23,7 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 - **Aligning Latent Spaces for 3D Hand Pose Estimation**  
   **Linlin Yang\***, Shile Li*, Dongheui Lee and Angela Yao  
   International Conference on Computer Vision(ICCV), 2019.  
-[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf)  [[poster]](https://www.mu4yang.com/files/posters/iccv19_poster_aligning.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Aligning.txt)
+[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf)  [[poster]](https://www.mu4yang.com/files/posters/iccv19_poster_aligning.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Aligning.txt) [[Code]](https://github.com/bestonebyone/AligningHand)
 
 - **Disentangling Latent Hands for Image Synthesis and Pose Estimation**  
   **Linlin Yang** and Angela Yao  
