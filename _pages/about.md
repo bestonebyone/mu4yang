@@ -20,6 +20,10 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 
 # Selected Publications
 
+- **Cogradient Descent for Bilinear Optimization**  
+  Li'an Zhuo, **Linlin Yang**, Baochang Zhang, Qixiang Ye, David Doermann, Guodong Guo, Rongrong Ji  
+  IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020.   
+
 - **Aligning Latent Spaces for 3D Hand Pose Estimation**  
   **Linlin Yang\***, Shile Li*, Dongheui Lee and Angela Yao  
   International Conference on Computer Vision(ICCV), 2019.  
