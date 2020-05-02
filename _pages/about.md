@@ -58,11 +58,3 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
   Proceedings of the Pacific-Rim Conference on Multimedia(PCM), 2016.  
   [[pdf]](https://www.mu4yang.com/files/papers/Adaptive%20Multi-class%20Correlation%20Filters.pdf)
 
-
-
-
-
-
-<div style="display: none"> 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=130&t=n&d=JfmK_bZPtkKkh4bmz69mhnYq5xVeeql0LrLeRxQIPCA&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-</div> 
