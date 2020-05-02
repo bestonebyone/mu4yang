@@ -21,7 +21,7 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 # Selected Publications
 
 - **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**  
-  Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann
+  Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann  
   International Joint Conference on Artificial Intelligence (IJCAI), 2020.  
 
 - **Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction**  
