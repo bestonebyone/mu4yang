@@ -20,6 +20,15 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 
 # Selected Publications
 
+- **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**  
+  Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann
+  International Joint Conference on Artificial Intelligence (IJCAI), 2020.  
+
+- **Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction**  
+  Anil Armagan, et al.  
+  Arxiv, 2020.  
+  [[pdf]](https://arxiv.org/pdf/2003.13764.pdf)
+
 - **Cogradient Descent for Bilinear Optimization**  
   Li'an Zhuo, Baochang Zhang, **Linlin Yang**, Hanlin Chen, Qixiang Ye, David Doermann, Guodong Guo, Rongrong Ji  
   IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020.   
