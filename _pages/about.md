@@ -23,7 +23,8 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 - **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**  
   Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann  
   International Joint Conference on Artificial Intelligence (IJCAI), 2020.  
-
+  [[pdf]](https://arxiv.org/pdf/2005.00057.pdf)
+  
 - **Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction**  
   Anil Armagan, et al.  
   Arxiv, 2020.  
