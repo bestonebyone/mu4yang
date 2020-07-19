@@ -27,17 +27,17 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
   
 - **Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction**  
   Anil Armagan, et al.  
-  Arxiv, 2020.  
+  European Conference on Computer Vision (ECCV), 2020.  
   [[pdf]](https://arxiv.org/pdf/2003.13764.pdf)
 
 - **Cogradient Descent for Bilinear Optimization**  
   Li'an Zhuo, Baochang Zhang, **Linlin Yang**, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo  
-  IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2020.  
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.  
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuo_Cogradient_Descent_for_Bilinear_Optimization_CVPR_2020_paper.pdf)  
 
 - **Aligning Latent Spaces for 3D Hand Pose Estimation**  
   **Linlin Yang\***, Shile Li*, Dongheui Lee and Angela Yao  
-  International Conference on Computer Vision(ICCV), 2019.  
+  International Conference on Computer Vision (ICCV), 2019.  
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf)  [[poster]](https://www.mu4yang.com/files/posters/iccv19_poster_aligning.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Aligning.txt) 
 
 - **Disentangling Latent Hands for Image Synthesis and Pose Estimation**  
@@ -47,16 +47,16 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 
 - **Image Reconstruction via Manifold Constrained Convolutional Sparse Coding for Image Sets**  
   **Linlin Yang\***, Ce Li*, Jungong Han, Chen Chen, Qixiang Ye, Baochang Zhang, Xianbin Cao and Wanquan Liu  
-  IEEE Journal of Selected Topics in Signal Processing(JSTSP), 2017.  
+  IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2017.  
   [[pdf]](https://www.mu4yang.com/files/papers/Image%20Reconstruction%20via%20Manifold%20Constrained%20Convolutional%20Sparse%20Coding%20for%20Image%20Sets.pdf)
 
 - **Action Recognition Using 3D Histograms of Texture and A Multi-class Boosting Classifier**  
   Baochang Zhang,Yun Yang, Chen Chen, **Linlin Yang**, Jungong Han and Ling Shao  
-  IEEE Transactions on Image Processing(TIP), 2017.  
+  IEEE Transactions on Image Processing (TIP), 2017.  
   [[pdf]](https://www.mu4yang.com/files/papers/Action%20Recognition%20Using%203D%20Histograms%20of%20Texture%20and%20A%20Multi-class%20Boosting%20Classifier.pdf)
 
 - **Adaptive Multi-class Correlation Filters**  
   **Linlin Yang**, Chen Chen, Hainan Wang, Baochang Zhang and Jungong Han  
-  Proceedings of the Pacific-Rim Conference on Multimedia(PCM), 2016.  
+  Proceedings of the Pacific-Rim Conference on Multimedia (PCM), 2016.  
   [[pdf]](https://www.mu4yang.com/files/papers/Adaptive%20Multi-class%20Correlation%20Filters.pdf)
 
