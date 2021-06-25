@@ -20,6 +20,10 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 
 # Selected Publications
 
+- **Uncertainty-aware Binary Neural Networks**  
+  Junhe Zhao, **Linlin Yang**,  Baochang Zhang, Guodong Guo, David Doermann  
+  International Joint Conference on Artificial Intelligence (IJCAI), 2021. 
+
 - **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**  
   Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann  
   International Joint Conference on Artificial Intelligence (IJCAI), 2020.  
