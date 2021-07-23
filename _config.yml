@@ -241,9 +241,9 @@ defaults:
       path: ""
       type: project
     values:
-      layout: single
-      author_profile: true
-      share: true
+      layout: project
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
