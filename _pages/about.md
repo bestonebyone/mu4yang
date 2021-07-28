@@ -19,6 +19,13 @@ Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based 
 
 
 # Selected Publications
+- **SemiHand: Semi-supervised Hand Pose Estimation with Consistency**  
+  **Linlin Yang**, Shicheng Chen, Angela Yao  
+  International Conference on Computer Vision (ICCV), 2021. 
+
+- **Removing the Bias of Integral Pose Regression**  
+  Kerui Gu, **Linlin Yang**, Angela Yao  
+  International Conference on Computer Vision (ICCV), 2021. 
 
 - **Uncertainty-aware Binary Neural Networks**  
   Junhe Zhao, **Linlin Yang**,  Baochang Zhang, Guodong Guo, David Doermann  
