@@ -8,15 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student under Prof. Angela Yao at University of Bonn, Germany. I received the B.Eng. and M.Eng. degrees from Beihang University on 2013 and 2017 respectively. My main research interest is hand pose estimation.
-
-
-
-# Research Interests
-
-Machine Learning, Computer Vision and Pattern Recognition. Especially RGB-based Hand Pose Estimation.
-
-
+I'm a Ph.D. student under Prof. Angela Yao at University of Bonn, Germany. I received the B.Eng. and M.Eng. degrees from Beihang University on 2013 and 2017 respectively. My main research interest includes (hand) pose estimation， multi/cross-modal learning, semi-/self- supervised learning,  binary neural networks and neural architecture search.
 
 # Selected Publications
 - **SemiHand: Semi-supervised Hand Pose Estimation with Consistency**  

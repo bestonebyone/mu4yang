@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Mu4yang"
 title_separator          : "-"
 name                     : &name "Linlin Yang"
 description              : &description "personal website"
@@ -83,7 +83,7 @@ author:
   name             : "Linlin Yang"
   avatar           : "cute.png"
   bio              : "A Ph.D. student at University of Bonn"
-  location         : "Bonn"
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US"
