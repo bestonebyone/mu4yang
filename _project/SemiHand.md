@@ -26,7 +26,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 <div align='center' ><h2>Pipeline</h2></div>
 
-<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/pipeline.jpg">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Overview of SemiHand. The model is pre-trained on labelled synthetic data. Consistency training (orange double headed arrow) on unlabelled real-world data with perturbation augmentations and label correction and sample selection (blue dash-dotted arrow) together with augmentation of differing difficulties.</div></div> </center>
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/pipeline.jpg">    <br>    <div style="color:orange;  display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Overview of SemiHand. The model is pre-trained on labelled synthetic data. Consistency training (orange double headed arrow) on unlabelled real-world data with perturbation augmentations and label correction and sample selection (blue dash-dotted arrow) together with augmentation of differing difficulties.</div></div> </center>
 
 
 
@@ -34,7 +34,9 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 <div align='center' ><h2>Modules</h2></div>
 
-<div><img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="50%" width="50%" style="float:left;"> <div style="color:orange; color: #999;"><br><br><br><br>Pseudo-labels and their  confidence  are  estimated based on the  consistency  (or-ange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.) </div>
+<div><img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="50%" width="50%" style="float:left;"> <div style="color:orange; color: #999;"><br><br>Pseudo-labels and their  confidence  are  estimated based on the  consistency  (or-ange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.) </div>
+
+
 
 
 
@@ -45,7 +47,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 <div align='center' ><h2>Results</h2></div>
 
-<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/convergence.png">    <br>    <div style="color:orange; border-bottom: 1px solid #d9d9d9;    display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Gradual convergence from the prediction of pre-trained model to our final prediction.  The arrows indicate the direction anddistance of prediction movement during fine-tuning.  For 10th iteration, the optimization converges because the length of arrows becomealmost zeros. We highlight the differences between our stable predictions and the ground-truth poses with red boxes.</div></div> </center>
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/convergence.png">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Gradual convergence from the prediction of pre-trained model to our final prediction.  The arrows indicate the direction anddistance of prediction movement during fine-tuning.  For 10th iteration, the optimization converges because the length of arrows becomealmost zeros. We highlight the differences between our stable predictions and the ground-truth poses with red boxes.</div></div> </center>
 
 
 
