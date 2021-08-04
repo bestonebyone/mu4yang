@@ -5,6 +5,14 @@ type: "Tutorial"
 permalink: /project/SemiHand
 ---
 
+
+
+<div align='center' ><h2>Sources</h2></div>
+
+[[pdf\]]() [[supplementary\]]() [[poster\]]()[[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
+
+
+
 <div align='center' ><h2>Abstract</h2></div>
 
 We present SemiHand, a semi-supervised framework for 3D hand pose
@@ -30,9 +38,9 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 
 
+<div id="header" class="colord5">
+            <img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="100%" style="vertical-align: middle;" /><span>Pseudo-labelling of SemiHand. Pseudo-labels and their confidence are estimated based on the consistency (orange double headed arrow) and the feasibility (green double headed arrow). Meanwhile, we fine-tune the model with augmentation of differing difficulties.</span>
+        </div>
 
 
-<div align='center' ><h2>Sources</h2></div>
-
-[[pdf\]]() [[supplementary\]]() [[poster\]]() [[Quantitative Results\]]() [[Code\]]()
 
