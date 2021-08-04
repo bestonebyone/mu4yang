@@ -9,7 +9,7 @@ permalink: /project/SemiHand
 
 <div align='center' ><h2>Sources</h2></div>
 
-[[pdf\]]() [[supplementary\]]() [[poster\]]()[[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
+[[PDF\]]() [[Supplementary\]]() [[Poster\]]() [[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
 
 
 
