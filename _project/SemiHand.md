@@ -1,15 +1,12 @@
 ---
-title: "SemiHand"
+title: "SemiHand: Semi-supervised Hand Pose Estimation with Consistency"
 collection: project
 type: "Tutorial"
 permalink: /project/SemiHand
 ---
 
-# SemiHand: Semi-supervised Hand Pose Estimation with Consistency
 
-
-
-## Abstract
+<div align='center' ><font size='70'>Abstract</font></div>
 
 We present SemiHand, a semi-supervised framework for 3D hand pose
 estimation from monocular images. We pre-train the model on labelled synthetic data and fine-tune it on unlabelled real-world data by pseudo-labeling with consistency training. 
@@ -18,7 +15,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 
 
-## Pipeline
+<div align='center' ><font size='70'>Pipeline</font></div>
 
 ![avatar](https://www.mu4yang.com/files/project/semihand/pipeline.jpg)
 
