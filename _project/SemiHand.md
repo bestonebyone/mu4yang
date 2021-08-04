@@ -41,13 +41,14 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 <table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
         <td>
-            <img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" >    <br>    <div style="color:orange;   display: inline-block;    color: #999;  "><div align='left' >Pseudo-labels and their  confidence  are  estimated based on the  consistency  (orange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.</div></div>
+            <img src="https://www.mu4yang.com/files/project/semihand/ccloss.jpg" >    <br>    <div style="color:orange;   display: inline-block;    color: #999;  "><div align='left' >Overview of cross-modal consistency loss. (uv, d) are 2.5D hand outputs; w denotes the hand mask.</div></div>
         </td>
         <td>
-        <img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" >    <br>    <div style="color:orange;   display: inline-block;    color: #999; "><div align='left' >Pseudo-labels and their  confidence  are  estimated based on the  consistency  (orange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.</div></div>
+        <img src="https://www.mu4yang.com/files/project/semihand/vcloss.jpg" >    <br>    <div style="color:orange;   display: inline-block;    color: #999; "><div align='left' >Overview of view consistency loss for 2.5D representation.</div></div>
         </td>
     </tr>
 </table>
+
 
 
 
