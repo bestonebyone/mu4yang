@@ -38,7 +38,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto;" frame=void rules=none>
     <tr>
         <td>
             <img src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" >    <br>    <div style="color:orange;   display: inline-block;    color: #999;  "><div align='left' >Pseudo-labels and their  confidence  are  estimated based on the  consistency  (orange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.</div></div>
@@ -48,6 +48,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
         </td>
     </tr>
 </table>
+
 
 
 
