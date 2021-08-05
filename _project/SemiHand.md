@@ -58,7 +58,15 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 
 
+<br/>
+
+
+
 <center> <table><tr> <td><img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/STB_AUC.jpg"></td> <td><img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/DO_AUC.jpg"></td> </tr></table>   <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >AUC: Comparison to state-of-the-art on STB and DO.</div></div> </center>
+
+
+
+<br/>
 
 
 
