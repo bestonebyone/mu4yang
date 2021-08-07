@@ -39,6 +39,8 @@ permalink: /project/SemiHand
 
 
 
+
+
 <div align='center' ><h2>Abstract</h2></div>
 
 We present SemiHand, a semi-supervised framework for 3D hand pose
