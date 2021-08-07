@@ -28,13 +28,14 @@ permalink: /project/SemiHand
       </div>
     </div>
 
-<br/>
+<br>
 
 <hr>
 
+
 <div align='center' ><h2>Sources</h2></div>
 
-[[PDF\]]() [[Supplementary\]]() [[Poster\]]() [[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
+[[PDF]]() [[Supplementary\]]() [[Poster\]]() [[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
 
 
 
