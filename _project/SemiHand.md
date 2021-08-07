@@ -1,13 +1,17 @@
 ---
-title: "SemiHand: Semi-supervised Hand Pose Estimation with Consistency"
+title: ""
 collection: project
 type: "Tutorial"
 permalink: /project/SemiHand
 ---
 
-
-
-  <div class="container" style="padding-top: 100px;padding-bottom: 100px;">
+  <div class="container" style="padding-top: 10px;padding-bottom: 10px;">
+      <div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center">
+          <h1>SemiHand: Semi-supervised Hand Pose Estimation with Consistency</h1>
+        </div>
+      </div>
     <div>
       <div class="row justify-content-center">
         <div class="col-10 text-center">
@@ -24,7 +28,9 @@ permalink: /project/SemiHand
       </div>
     </div>
 
+<br>
 
+<hr>
 
 <div align='center' ><h2>Sources</h2></div>
 
