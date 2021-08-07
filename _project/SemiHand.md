@@ -16,21 +16,19 @@ permalink: /project/SemiHand
       <div class="row justify-content-center">
         <div class="col-10 text-center">
           Linlin Yang<sup>1,2</sup>&ensp;&ensp;
-          Shicheng Chen<sup>2</sup>&ensp;&ensp;
-          Angela Yao<sup>2</sup>
+          Shicheng Chen<sup>1</sup>&ensp;&ensp;
+          Angela Yao<sup>1</sup>
         </div>
       </div>
       <div class="row justify-content-center">
         <div class="col-10 text-center font-weight-light">
-          <sup>1</sup>University of Bonn&ensp;&ensp;
-          <sup>2</sup>National University of Singapore
+          <sup>1</sup>National University of Singapore&ensp;&ensp;
+          <sup>2</sup>University of Bonn
         </div>
       </div>
     </div>
 
 <br>
-
-<hr>
 
 <div align='center' ><h2>Sources</h2></div>
 
