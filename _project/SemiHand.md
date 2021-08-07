@@ -74,22 +74,14 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 
 
-<div align='center' ><h2>BibTeX</h2></div>
-<div style="background-color:#ddd;margin-bottom:1em">
-        @inproceedings{yang2021semihand,
-        title={SemiHand: Semi-supervised Hand Pose Estimation with Consistency},
-        author={Yang, Linlin and Chen, Shicheng and Yao, Angela},
-        booktitle={ICCV},
-        year={2021}
-</div>
 
 
 <div align='center' ><h2>BibTeX</h2></div>
+<style>pre{font-size: 12px}</style>
 <pre><div style="background-color:#ddd;margin-bottom:1em">
 @inproceedings{yang2021semihand,
         title={SemiHand: Semi-supervised Hand Pose Estimation with Consistency},
         author={Yang, Linlin and Chen, Shicheng and Yao, Angela},
         booktitle={ICCV},
-        year={2021}</div>
-</pre>
+        year={2021}</div></pre>
 
