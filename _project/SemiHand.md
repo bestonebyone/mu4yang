@@ -28,9 +28,9 @@ permalink: /project/SemiHand
       </div>
     </div>
 
-<br>
-
 <hr>
+
+<br>
 
 
 <div align='center' ><h2>Sources</h2></div>
