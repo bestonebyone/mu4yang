@@ -7,6 +7,25 @@ permalink: /project/SemiHand
 
 
 
+  <div class="container" style="padding-top: 100px;padding-bottom: 100px;">
+    <div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center">
+          Linlin Yang<sup>1,2</sup>&ensp;&ensp;
+          Shicheng Chen<sup>2</sup>&ensp;&ensp;
+          Angela Yao<sup>2</sup>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center font-weight-light">
+          <sup>1</sup>University of Bonn&ensp;&ensp;
+          <sup>2</sup>National University of Singapore
+        </div>
+      </div>
+    </div>
+
+
+
 <div align='center' ><h2>Sources</h2></div>
 
 [[PDF\]]() [[Supplementary\]]() [[Poster\]]() [[Slides\]]() [[Quantitative Results\]]() [[Code\]]()
@@ -84,4 +103,3 @@ title={SemiHand: Semi-supervised Hand Pose Estimation with Consistency},
 author={Yang, Linlin and Chen, Shicheng and Yao, Angela},
 booktitle={ICCV},
 year={2021}}</pre>
-
