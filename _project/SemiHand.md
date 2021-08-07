@@ -34,9 +34,7 @@ permalink: /project/SemiHand
 
 <div align='center' ><h2>Sources</h2></div>
 
-[[PDF]](www.mu4yang.com) [[Supplementary]]() [[Poster]]() [[Slides]]() [[Quantitative Results]]() [[Code]]()
-
-
+<a href="www.mu4yang.com">[PDF]</a> <a href="">[Supplementary]</a>  <a href="">[Poster]</a>  <a href="">[Slides]</a>  <a href="">[Quantitative Results]</a>  <a href="">[Code]</a>
 
 
 
