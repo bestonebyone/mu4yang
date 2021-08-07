@@ -72,3 +72,16 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 <center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/histgram.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Comparison of baseline, with only consistency training, with only pseudo-labeling and our proposed SemiHand.</div></div> </center>
 
+
+
+<div align='center' ><h2>Citation</h2></div>
+<div class="section bibtex">
+<pre>
+@inproceedings{yang2021semihand,
+  title={SemiHand: Semi-supervised Hand Pose Estimation with Consistency},
+  author={Yang, Linlin and Chen, Shicheng and Yao, Angela},
+  booktitle={ICCV},
+  year={2021}
+}</pre>
+</div>
+
