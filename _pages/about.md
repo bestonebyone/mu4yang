@@ -24,8 +24,9 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
 
 - **Uncertainty-aware Binary Neural Networks**  
   Junhe Zhao, **Linlin Yang**,  Baochang Zhang, Guodong Guo, David Doermann  
-  International Joint Conference on Artificial Intelligence (IJCAI), 2021. 
-
+  International Joint Conference on Artificial Intelligence (IJCAI), 2021.  
+  [[pdf]](https://www.ijcai.org/proceedings/2021/0474.pdf)
+  
 - **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs**  
   Li'an Zhuo, Baochang Zhang, Hanlin Chen, **Linlin Yang**, Chen Chen, Yanjun Zhu, David Doermann  
   International Joint Conference on Artificial Intelligence (IJCAI), 2020.  
