@@ -34,16 +34,13 @@ permalink: /project/SemiHand
 
 <div align='center' ><h2>Sources</h2></div>
 
-<a href="https://www.mu4yang.com">[PDF]</a> <a href="">[Supplementary]</a>  <a href="">[Poster]</a>  <a href="">[Slides]</a>  <a href="">[Quantitative Results]</a>  <a href="">[Code]</a>
+<a href="https://www.mu4yang.com/files/project/semihand/semihand.pdf">[PDF]</a> <a href="https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf">[Supplementary]</a>  <a href="">[Poster]</a>  <a href="">[Slides]</a>  <a href="">[Quantitative Results]</a>  <a href="">[Code]</a>
 
 
 
 <div align='center' ><h2>Abstract</h2></div>
 
-We present SemiHand, a semi-supervised framework for 3D hand pose
-estimation from monocular images. We pre-train the model on labelled synthetic data and fine-tune it on unlabelled real-world data by pseudo-labeling with consistency training. 
-By design, we introduce data augmentation of differing difficulties, consistency regularizer, label correction and sample selection for RGB-based 3D hand pose estimation.
-In particular, by approximating the hand masks from hand poses, we propose cross-modal consistency to leverage semantic predictions to provide guidance for the predicted poses. Meanwhile, we introduce pose registration as label correction to guarantee the biomechanical feasibility of hand bone lengths. Experiments show that our method achieves a favorable improvement on real-world datasets after fine-tuning.
+We present SemiHand, a semi-supervised framework for 3D hand pose estimation from monocular images. We pre-train the model on labelled synthetic data and fine-tune it on unlabelled real-world data by pseudo-labeling with consistency training. By design, we introduce data augmentation of differing difficulties, consistency regularizer, label correction and sample selection for RGB-based 3D hand pose estimation. In particular, by approximating the hand masks from hand poses, we propose a cross-modal consistency and leverage semantic predictions to guide the predicted poses. Meanwhile, we introduce pose registration as label correction to guarantee the biomechanical feasibility of hand bone lengths. Experiments show that our method achieves a favorable improvement on real-world datasets after fine-tuning.
 
 
 
@@ -59,7 +56,7 @@ In particular, by approximating the hand masks from hand poses, we propose cross
 
 <div align='center' ><h2>Modules</h2></div>
 
-<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Pseudo-labels and their  confidence  are  estimated based on the  consistency  (orange double headed arrow) and the feasibility (green doubleheaded arrow).  Meanwhile, we fine-tune the model with aug-mentation of differing difficulties.</div></div> </center>
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Pseudo-labelling of SemiHand. Our pseudo-label with confidence is generated based on the prediction from original (blue pose), the prediction from perturbation (green pose) and the corrected prediction (red pose).</div></div> </center>
 
 <br/>
 
