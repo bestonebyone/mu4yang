@@ -17,7 +17,7 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
 - **SemiHand: Semi-supervised Hand Pose Estimation with Consistency**  
   **Linlin Yang**, Shicheng Chen, Angela Yao  
   International Conference on Computer Vision (ICCV), 2021.  
-  [[pdf]]https://www.mu4yang.com/files/project/semihand/semihand.pdf)  [[supp]](https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf)  [[project]](https://www.mu4yang.com/project/SemiHand)
+  [[pdf]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)  [[supp]](https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf)  [[project]](https://www.mu4yang.com/project/SemiHand)
 
 - **Removing the Bias of Integral Pose Regression**  
   Kerui Gu, **Linlin Yang**, Angela Yao  
