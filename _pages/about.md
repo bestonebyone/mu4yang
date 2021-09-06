@@ -21,7 +21,8 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
 
 - **Removing the Bias of Integral Pose Regression**  
   Kerui Gu, **Linlin Yang**, Angela Yao  
-  International Conference on Computer Vision (ICCV), 2021. 
+  International Conference on Computer Vision (ICCV), 2021.  
+  [[pdf]](https://www.mu4yang.com/files/papers/Removing%20the%20Bias%20of%20Integral%20Pose%20Regression.pdf)
 
 - **Uncertainty-aware Binary Neural Networks**  
   Junhe Zhao, **Linlin Yang**,  Baochang Zhang, Guodong Guo, David Doermann  
