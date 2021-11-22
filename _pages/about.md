@@ -17,7 +17,7 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
 - **Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation**  
   Ziwei Yu, **Linlin Yang**, Shicheng Chen, Angela Yao  
   British Machine Vision Conference (BMVC), 2021.  
-  [[pdf]]()
+  [[pdf]](https://www.bmvc2021-virtualconference.com/assets/papers/0817.pdf) [[supp]](https://www.bmvc2021-virtualconference.com/assets/supp/0817_supp.zip) 
 
 - **SemiHand: Semi-supervised Hand Pose Estimation with Consistency**  
   **Linlin Yang**, Shicheng Chen, Angela Yao  
