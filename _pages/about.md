@@ -14,6 +14,11 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
  (hand) pose estimation, multi-/cross-modal learning, semi-/self-supervised learning, binary neural networks and neural architecture search.
 
 # Selected Publications
+- **Dive Deeper Into Integral Pose Regression**  
+  Kerui Gu, **Linlin Yang**, Angela Yao  
+  International Conference on Learning Representations (ICLR), 2021.  
+  [[pdf]]()
+
 - **Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation**  
   Ziwei Yu, **Linlin Yang**, Shicheng Chen, Angela Yao  
   British Machine Vision Conference (BMVC), 2021.  
