@@ -17,7 +17,7 @@ I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the
 - **Dive Deeper Into Integral Pose Regression**  
   Kerui Gu, **Linlin Yang**, Angela Yao  
   International Conference on Learning Representations (ICLR), 2022.  
-  [[pdf]](https://openreview.net/pdf?id=vHVcB-ak3Si)
+  [[pdf]](https://openreview.net/forum?id=vHVcB-ak3Si)  
 
 - **Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation**  
   Ziwei Yu, **Linlin Yang**, Shicheng Chen, Angela Yao  
