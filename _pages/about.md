@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. I received the B.Eng. and M.Eng. degrees from Beihang University.
+I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. 
 
 # Research Interests
  (hand) pose estimation, multi-/cross-modal learning, semi-/self-supervised learning, binary neural networks and neural architecture search.
