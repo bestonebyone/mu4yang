@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student under Prof. Angela Yao at University of Bonn. 
+I'm a Research Fellow under Prof. Angela Yao at National University of Singapore (NUS). Earlier I completed my PhD at University of Bonn.
 
 # Research Interests
  (hand) pose estimation, multi-/cross-modal learning, semi-/self-supervised learning, binary neural networks and neural architecture search.
