@@ -1,11 +1,23 @@
 # jemdoc: addcss{jemdoc.css}, nofooter
-= Linlin Yang's Homepage
+\n
+~~~
+{}{img_left}{linlin.png}{photo}{140px}{140px}{}
+= Linlin Yang
 #includeraw{contact.html}
+\n
+\n
+/Research Fellow, NUS/\n
+/Office: AS6-04-11, 11 Computing Dr, Singapore, 117416/
+~~~
+\n
 \n
 ~~~
 {}{raw}
 I am a Research Fellow under Prof. Angela Yao at National University of Singapore (NUS). Earlier I completed my PhD at University of Bonn.<br>
 ~~~
+
+
+
 == Research Interests
 Hand\/Human Pose Estimation, Multi-\/Cross-Modal Learning, Semi-\/Self-Supervised Learning, Binary Neural Networks and Neural Architecture Search.
 
