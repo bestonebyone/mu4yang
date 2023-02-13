@@ -1,0 +1,110 @@
+---
+title: ""
+collection: project
+type: "Tutorial"
+permalink: /project/SemiHand
+---
+
+  <div class="container" style="padding-top: 10px;padding-bottom: 10px;">
+      <div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center">
+          <h1>SemiHand: Semi-supervised Hand Pose Estimation with Consistency</h1>
+        </div>
+      </div>
+    <div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center">
+          Linlin Yang<sup>1,2</sup>&ensp;&ensp;
+          Shicheng Chen<sup>1</sup>&ensp;&ensp;
+          Angela Yao<sup>1</sup>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-10 text-center font-weight-light">
+          <sup>1</sup>National University of Singapore&ensp;&ensp;
+          <sup>2</sup>University of Bonn
+        </div>
+      </div>
+    </div>
+
+<br>
+
+<hr>
+
+<div align='center' ><h2>Sources</h2></div>
+
+<a href="https://www.mu4yang.com/files/project/semihand/semihand.pdf">[PDF]</a> <a href="https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf">[Supplementary]</a>  <a href="https://www.mu4yang.com/files/project/semihand/iccv21_semihand_poster.pdf">[Poster]</a> <a href="https://www.mu4yang.com/files/project/semihand/iccv21_semihand_slides.pdf">[Slides]</a> [Quantitative Results] [Code]
+
+<!-- <a href="">[Poster]</a>  <a href="">[Slides]</a>  <a href="">[Quantitative Results]</a>  <a href="">[Code]</a> -->
+
+
+
+<div align='center' ><h2>Abstract</h2></div>
+
+We present SemiHand, a semi-supervised framework for 3D hand pose estimation from monocular images. We pre-train the model on labelled synthetic data and fine-tune it on unlabelled real-world data by pseudo-labeling with consistency training. By design, we introduce data augmentation of differing difficulties, consistency regularizer, label correction and sample selection for RGB-based 3D hand pose estimation. In particular, by approximating the hand masks from hand poses, we propose a cross-modal consistency and leverage semantic predictions to guide the predicted poses. Meanwhile, we introduce pose registration as label correction to guarantee the biomechanical feasibility of hand bone lengths. Experiments show that our method achieves a favorable improvement on real-world datasets after fine-tuning.
+
+
+
+
+
+<div align='center' ><h2>Pipeline</h2></div>
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/pipeline.jpg">    <br>    <div style="color:orange;  display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Overview of SemiHand. The model is pre-trained on labelled synthetic data. Consistency training (orange double headed arrow) on unlabelled real-world data with perturbation augmentations and label correction and sample selection (blue dash-dotted arrow) together with augmentation of differing difficulties.</div></div> </center>
+
+
+
+
+
+<div align='center' ><h2>Modules</h2></div>
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/teaser.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Pseudo-labelling of SemiHand. Our pseudo-label with confidence is generated based on the prediction from original (blue pose), the prediction from perturbation (green pose) and the corrected prediction (red pose).</div></div> </center>
+
+<br/>
+
+
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/ccloss.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Overview of cross-modal consistency loss. (uv, d) are 2.5D hand outputs; w denotes the hand mask.</div></div> </center>
+
+<br/>
+
+
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/vcloss.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Overview of view consistency loss for 2.5D representation.</div></div> </center>
+
+
+
+
+
+<div align='center' ><h2>Results</h2></div>
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/convergence.png">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Gradual convergence from the prediction of pre-trained model to our final prediction.  The arrows indicate the direction and distance of prediction movement during fine-tuning.  For 10th iteration, the optimization converges because the length of arrows becomealmost zeros. We highlight the differences between our stable predictions and the ground-truth poses with red boxes.</div></div> </center>
+
+
+
+<br/>
+
+
+
+<center> <table><tr> <td><img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/STB_AUC.jpg"></td> <td><img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/DO_AUC.jpg"></td> </tr></table>   <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >AUC: Comparison to state-of-the-art on STB and DO.</div></div> </center>
+
+
+
+<br/>
+
+
+
+<center>    <img style="border-radius: 0.3125em;    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="https://www.mu4yang.com/files/project/semihand/histgram.jpg" height="50%" width="50%">    <br>    <div style="color:orange;   display: inline-block;    color: #999;    padding: 2px;"><div align='left' >Comparison of baseline, with only consistency training, with only pseudo-labeling and our proposed SemiHand.</div></div> </center>
+
+
+
+
+
+<div align='center' ><h2>BibTeX</h2></div>
+<style>pre{font-size: 12px}</style>
+<pre>
+@inproceedings{yang2021semihand,
+title={SemiHand: Semi-supervised Hand Pose Estimation with Consistency},
+author={Yang, Linlin and Chen, Shicheng and Yao, Angela},
+booktitle={ICCV},
+year={2021}}</pre>

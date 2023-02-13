@@ -1,0 +1,5 @@
+# All robots allowed
+User-agent: *
+Disallow:
+
+Sitemap: https://www.mu4yang.com/sitemap.xml

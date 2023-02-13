@@ -1,0 +1,10 @@
+{
+	"name": "Minimal Mistakes",
+	"icons": [
+		{
+			"src": "\/images\/android-chrome-96x96.png?v=M44lzPylqQ",
+			"sizes": "96x96",
+			"type": "image\/png",
+		}
+	]
+}
