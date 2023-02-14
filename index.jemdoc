@@ -22,43 +22,63 @@ I am a Research Fellow under Prof. Angela Yao at National University of Singapor
 Hand\/Human Pose Estimation, Multi-\/Cross-Modal Learning, Semi-\/Self-Supervised Learning, Binary Neural Networks and Neural Architecture Search.
 
 == Selected Publications
+- Bias-Compensated Integral Regression for Human Pose Estimation\n
+Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
+/arXiv/, 2023.\n
+\[[https://arxiv.org/pdf/2301.10431.pdf pdf]\]
+
+- Improving Deep Regression with Ordinal Entropy\n
+Shihao Zhang, *Linlin Yang*, Michael Bi Mi, Xiaoxu Zheng, Angela Yao\n
+/International Conference on Learning Representations (ICLR)/, 2023.\n
+\[[https://openreview.net/forum?id=raU07GpP0P OpenReview]\]
+
+- MagFormer: Hybrid Video Motion Magnification Transformer from Eulerian and Lagrangian Perspectives\n
+Sicheng Gao, Yutang Feng, *Linlin Yang*, Xuhui Liu, Zichen Zhu, David Doermann, Baochang Zhang\n
+/British Machine Vision Conference (BMVC)/, 2022.\n
+\[[https://bmvc2022.mpi-inf.mpg.de/0444.pdf pdf]\]
+
+- UV-Based 3D Hand-Object Reconstruction with Grasp Optimization\n
+Ziwei Yu, *Linlin Yang*, You Xie, Ping Chen, Angela Yao\n
+/British Machine Vision Conference (BMVC)/, 2022.\n
+\[[https://arxiv.org/pdf/2211.13429.pdf pdf]\]
+
 -  Dive Deeper Into Integral Pose Regression\n
-Kerui Gu, Linlin Yang, Angela Yao\n
+Kerui Gu, *Linlin Yang*, Angela Yao\n
 /International Conference on Learning Representations (ICLR)/, 2022.\n
 \[[https://openreview.net/forum?id=vHVcB-ak3Si OpenReview]\]
 
 -  Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation\n
-Ziwei Yu, Linlin Yang, Shicheng Chen, Angela Yao\n 
+Ziwei Yu, *Linlin Yang*, Shicheng Chen, Angela Yao\n 
 /British Machine Vision Conference (BMVC)/, 2021.\n
 \[[https://www.bmvc2021-virtualconference.com/assets/papers/0817.pdf pdf]\]
 
 - SemiHand: Semi-supervised Hand Pose Estimation with Consistency\n 
-Linlin Yang, Shicheng Chen, Angela Yao\n 
+*Linlin Yang*, Shicheng Chen, Angela Yao\n 
 /International Conference on Computer Vision (ICCV)/, 2021.\n
 \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SemiHand_Semi-Supervised_Hand_Pose_Estimation_With_Consistency_ICCV_2021_paper.pdf pdf]\]
 
 - Removing the Bias of Integral Pose Regression\n 
-Kerui Gu, Linlin Yang, Angela Yao\n
+Kerui Gu, *Linlin Yang*, Angela Yao\n
 /International Conference on Computer Vision (ICCV)/, 2021.\n
 \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_Removing_the_Bias_of_Integral_Pose_Regression_ICCV_2021_paper.pdf pdf]\]
 
 - Uncertainty-aware Binary Neural Networks\n
-Junhe Zhao, Linlin Yang, Baochang Zhang, Guodong Guo, David Doermann\n
+Junhe Zhao, *Linlin Yang*, Baochang Zhang, Guodong Guo, David Doermann\n
 /International Joint Conference on Artificial Intelligence (IJCAI)/, 2021.\n
 \[[https://www.ijcai.org/proceedings/2021/0474.pdf pdf]\]
 
 - Cogradient Descent for Bilinear Optimization\n
-Li’an Zhuo, Baochang Zhang, Linlin Yang, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo\n
+Li’an Zhuo, Baochang Zhang, *Linlin Yang*, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2020.\n
 \[[http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuo_Cogradient_Descent_for_Bilinear_Optimization_CVPR_2020_paper.pdf pdf]\]
 
 - Aligning Latent Spaces for 3D Hand Pose Estimation\n 
-Linlin Yang\#, Shile Li\#, Dongheui Lee and Angela Yao\n 
+*Linlin Yang*\#, Shile Li\#, Dongheui Lee and Angela Yao\n 
 /International Conference on Computer Vision (ICCV)/, 2019.\n
 \[[http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf pdf]\]
 
 - Disentangling Latent Hands for Image Synthesis and Pose Estimation\n
-Linlin Yang and Angela Yao\n
+*Linlin Yang* and Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2019.\n
 \[[http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf pdf]\]
 
