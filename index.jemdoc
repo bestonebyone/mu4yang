@@ -21,7 +21,22 @@ I am a Research Fellow under Prof. Angela Yao at National University of Singapor
 == Research Interests
 Hand\/Human Pose Estimation, Multi-\/Cross-Modal Learning, Semi-\/Self-Supervised Learning, Binary Neural Networks and Neural Architecture Search.
 
-== Selected Publications
+== Professional Services
+I am an organizer of [https://sites.google.com/view/hands2022/home HANDS@ECCV2022]. 
+
+== Publications
+- Overcoming the Tradeoff in Accuracy and Plausibility for 3D Hand Shape Reconstruction\n
+Ziwei Yu, Chen Li, *Linlin Yang*, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
+
+- Analyzing and Diagnosing Pose Estimation with Attribution\n
+Qiyuan He\#, *Linlin Yang*\#, Kerui Gu, Qiuxia Lin, Angela Yao\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
+
+- Cross-domain 3D Hand Pose Estimation with Dual Modalities\n
+Qiuxia Lin\#, *Linlin Yang*\#, Angela Yao\n
+/IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
+
 - Bias-Compensated Integral Regression for Human Pose Estimation\n
 Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
 /arXiv/, 2023.\n
