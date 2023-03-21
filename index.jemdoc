@@ -32,10 +32,12 @@ Ziwei Yu, Chen Li, *Linlin Yang*, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Ange
 - Analyzing and Diagnosing Pose Estimation with Attribution\n
 Qiyuan He\#, *Linlin Yang*\#, Kerui Gu, Qiuxia Lin, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
+\[[./files/papers/analyzing.pdf pdf]\]
 
 - Cross-domain 3D Hand Pose Estimation with Dual Modalities\n
 Qiuxia Lin\#, *Linlin Yang*\#, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
+\[[./files/papers/cross_domain.pdf pdf]\]
 
 - Bias-Compensated Integral Regression for Human Pose Estimation\n
 Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
@@ -46,11 +48,6 @@ Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
 Shihao Zhang, *Linlin Yang*, Michael Bi Mi, Xiaoxu Zheng, Angela Yao\n
 /International Conference on Learning Representations (ICLR)/, 2023.\n
 \[[https://openreview.net/forum?id=raU07GpP0P OpenReview]\]
-
-- MagFormer: Hybrid Video Motion Magnification Transformer from Eulerian and Lagrangian Perspectives\n
-Sicheng Gao, Yutang Feng, *Linlin Yang*, Xuhui Liu, Zichen Zhu, David Doermann, Baochang Zhang\n
-/British Machine Vision Conference (BMVC)/, 2022.\n
-\[[https://bmvc2022.mpi-inf.mpg.de/0444.pdf pdf]\]
 
 - UV-Based 3D Hand-Object Reconstruction with Grasp Optimization\n
 Ziwei Yu, *Linlin Yang*, You Xie, Ping Chen, Angela Yao\n
@@ -76,11 +73,6 @@ Ziwei Yu, *Linlin Yang*, Shicheng Chen, Angela Yao\n
 Kerui Gu, *Linlin Yang*, Angela Yao\n
 /International Conference on Computer Vision (ICCV)/, 2021.\n
 \[[https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_Removing_the_Bias_of_Integral_Pose_Regression_ICCV_2021_paper.pdf pdf]\]
-
-- Uncertainty-aware Binary Neural Networks\n
-Junhe Zhao, *Linlin Yang*, Baochang Zhang, Guodong Guo, David Doermann\n
-/International Joint Conference on Artificial Intelligence (IJCAI)/, 2021.\n
-\[[https://www.ijcai.org/proceedings/2021/0474.pdf pdf]\]
 
 - Cogradient Descent for Bilinear Optimization\n
 Li’an Zhuo, Baochang Zhang, *Linlin Yang*, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo\n
