@@ -25,19 +25,17 @@ Hand\/Human Pose Estimation, Multi-\/Cross-Modal Learning, Semi-\/Self-Supervise
 I am an organizer of [https://sites.google.com/view/hands2022/home HANDS@ECCV2022]. 
 
 == Publications
-- Overcoming the Tradeoff in Accuracy and Plausibility for 3D Hand Shape Reconstruction\n
+- Overcoming the Trade-off Between Accuracy and Plausibility in 3D Hand Shape Reconstruction\n
 Ziwei Yu, Chen Li, *Linlin Yang*, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
 
 - Analyzing and Diagnosing Pose Estimation with Attribution\n
 Qiyuan He\#, *Linlin Yang*\#, Kerui Gu, Qiuxia Lin, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
-\[[./files/papers/analyzing.pdf pdf]\]
 
 - Cross-domain 3D Hand Pose Estimation with Dual Modalities\n
 Qiuxia Lin\#, *Linlin Yang*\#, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
-\[[./files/papers/cross_domain.pdf pdf]\]
 
 - Bias-Compensated Integral Regression for Human Pose Estimation\n
 Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
