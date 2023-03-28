@@ -24,7 +24,18 @@ Hand\/Human Pose Estimation, Multi-\/Cross-Modal Learning, Semi-\/Self-Supervise
 == Professional Services
 I am an organizer of [https://sites.google.com/view/hands2022/home HANDS@ECCV2022]. 
 
+== Recent News
+- Mar 2023: One paper is accepted to TPAMI.
+- Feb 2023: Three papers are accepted to CVPR2023.
+- Jan 2023: One paper is accepted to ICLR2023.
+- Nov 2022: I have successfully completed my PhD defense.
+
 == Publications
+- Bias-Compensated Integral Regression for Human Pose Estimation\n
+Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
+/IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)/, 2023.\n
+\[[https://arxiv.org/pdf/2301.10431.pdf pdf]\]
+
 - Overcoming the Trade-off Between Accuracy and Plausibility in 3D Hand Shape Reconstruction\n
 Ziwei Yu, Chen Li, *Linlin Yang*, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
@@ -40,10 +51,6 @@ Qiuxia Lin\#, *Linlin Yang*\#, Angela Yao\n
 /IEEE Conference on Computer Vision and Pattern Recognition (CVPR)/, 2023.\n
 \[[./files/papers/cross_domain.pdf pdf]\]
 
-- Bias-Compensated Integral Regression for Human Pose Estimation\n
-Kerui Gu, *Linlin Yang*, Michael Bi Mi, Angela Yao\n
-/arXiv/, 2023.\n
-\[[https://arxiv.org/pdf/2301.10431.pdf pdf]\]
 
 - Improving Deep Regression with Ordinal Entropy\n
 Shihao Zhang, *Linlin Yang*, Michael Bi Mi, Xiaoxu Zheng, Angela Yao\n
