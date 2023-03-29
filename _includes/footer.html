@@ -1,0 +1,10 @@
+<footer class="footer"> 
+<body>
+   <p id="last-modified" style="text-align:center"></p>
+  </div>
+   <script>
+      const date = new Date(document.lastModified);
+      document.getElementById('last-modified').innerHTML = "Last edited on "+date.getFullYear()+"-"+date.getMonth()+"-"+date.getDate();
+   </script>
+</body>
+</footer>

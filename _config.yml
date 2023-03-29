@@ -1,0 +1,20 @@
+
+title:  Linlin Yang
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://mu4yang.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Exclude from processing.
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - README.md
+   - Makefile
+
