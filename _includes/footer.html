@@ -4,7 +4,8 @@
   </div>
    <script>
       const date = new Date(document.lastModified);
-      document.getElementById('last-modified').innerHTML = "Last edited on "+date.getFullYear()+"-"+date.getMonth()+"-"+date.getDate();
+      const month = ["Jan.","Feb.","Mar.","Apr.","May.","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
+      document.getElementById('last-modified').innerHTML = "Last edited on "+month[date.getMonth()]+date.getDate()+","+date.getFullYear();
    </script>
 </body>
 </footer>

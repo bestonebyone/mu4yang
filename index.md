@@ -98,7 +98,7 @@ Kerui Gu, **Linlin Yang**, Angela Yao<br>
 
 
 - Cogradient Descent for Bilinear Optimization<br>
-Li’an Zhuo, Baochang Zhang, *Linlin Yang*, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo<br>
+Li’an Zhuo, Baochang Zhang, **Linlin Yang**, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo<br>
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.<br>
 
 
