@@ -41,6 +41,7 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 <span id="news"></span>
 ## Recent News
 
+- Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23!
 - Mar 2023: One paper is accepted to TPAMI.
 - Feb 2023: Three papers are accepted to CVPR2023.
 - Jan 2023: One paper is accepted to ICLR2023.
