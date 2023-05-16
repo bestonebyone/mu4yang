@@ -35,12 +35,13 @@ Hand/Human Pose Estimation, Multi-/Cross-Modal Learning, Semi-/Self-Supervised L
 
 
 ## Professional Services 
-I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/home).
+I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/home) and [HANDS@ICCV23](https://sites.google.com/view/hands2023/).
 
 
 <span id="news"></span>
 ## Recent News
 
+- May 2023: One paper is accepted to IJCV.
 - Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23!
 - Mar 2023: One paper is accepted to TPAMI.
 - Feb 2023: Three papers are accepted to CVPR2023.
@@ -49,6 +50,11 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 
 <span id="pub"></span>
 ## Publications
+
+- Anti-Bandit for Neural Architecture Search<br>
+Runqi Wang\#, **Linlin Yang**\#, Hanlin Chen, Wei Wang, David Doermann, Baochang Zhang<br>
+*International Journal of Computer Vision (IJCV)*, 2023.<br>
+
 
 - Bias-Compensated Integral Regression for Human Pose Estimation<br>
 Kerui Gu, **Linlin Yang**, Michael Bi Mi, Angela Yao<br>
