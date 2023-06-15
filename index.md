@@ -12,7 +12,7 @@ title: Home
 
 <img src="linlin.png" class="avatar" alt="Avatar" />
 
-# Linlin Yang [\[CV\]](/files/cv/Linlin_Yang_Curriculum_Vitae.pdf)
+# Linlin Yang
 <html>
 <head>
 <title>Font Awesome Icons</title>
