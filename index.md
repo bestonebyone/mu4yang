@@ -41,7 +41,7 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 <span id="news"></span>
 ## Recent News
 
-<div style="height: 240px; overflow: auto;">
+<div style="height: 200px; overflow: auto;">
 <ul>
 <li> May 2023: One paper is accepted to IJCV. </li>
 <li> Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23! </li>
