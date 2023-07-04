@@ -42,14 +42,14 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 ## Recent News
 
 <div style="height: 240px; overflow: auto;">
-
-- May 2023: One paper is accepted to IJCV.
-- Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23!
-- Mar 2023: One paper is accepted to TPAMI.
-- Feb 2023: Three papers are accepted to CVPR2023.
-- Jan 2023: One paper is accepted to ICLR2023.
-- Nov 2022: I have successfully completed my PhD defense.
-
+<ul>
+<li> May 2023: One paper is accepted to IJCV. </li>
+<li> Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23! </li>
+<li> Mar 2023: One paper is accepted to TPAMI. </li>
+<li> Feb 2023: Three papers are accepted to CVPR2023. </li>
+<li> Jan 2023: One paper is accepted to ICLR2023. </li>
+<li> Nov 2022: I have successfully completed my PhD defense. </li>
+</ul>
 </div>
 
 <span id="pub"></span>
