@@ -58,6 +58,7 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 - Anti-Bandit for Neural Architecture Search<br>
 Runqi Wang\#, **Linlin Yang**\#, Hanlin Chen, Wei Wang, David Doermann, Baochang Zhang<br>
 *International Journal of Computer Vision (IJCV)*, 2023.<br>
+[[pdf]](https://link.springer.com/article/10.1007/s11263-023-01826-6)  
 
 
 - Bias-Compensated Integral Regression for Human Pose Estimation<br>
