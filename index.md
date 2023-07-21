@@ -43,8 +43,8 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 
 <div style="height: 200px; overflow: auto;">
 <ul>
-<li> Jul 2023: One paper is accepted to ICCV. </li>
-<li> Jul 2023: One paper is accepted to GCPR. </li>
+<li> Jul 2023: One paper is accepted to ICCV2023. </li>
+<li> Jul 2023: One paper is accepted to GCPR2023. </li>
 <li> May 2023: One paper is accepted to IJCV. </li>
 <li> Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23! </li>
 <li> Mar 2023: One paper is accepted to TPAMI. </li>
@@ -56,6 +56,15 @@ I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/ho
 
 <span id="pub"></span>
 ## Recent Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US)  
+- Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
+Rongyu Chen\#, **Linlin Yang**\#, Angela Yao<br>
+*International Conference on Computer Vision (ICCV)*, 2023.<br>
+
+
+- HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture<br>
+Jiayin Zhu, Zhuoran Zhao, **Linlin Yang**, Angela Yao<br>
+*German Conference on Pattern Recognition (GCPR)*, 2023.<br>
+
 
 - Anti-Bandit for Neural Architecture Search<br>
 Runqi Wang\#, **Linlin Yang**\#, Hanlin Chen, Wei Wang, David Doermann, Baochang Zhang<br>
