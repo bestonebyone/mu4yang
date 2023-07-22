@@ -35,7 +35,7 @@ Hand/Human Pose Estimation, Multi-/Cross-Modal Learning, Semi-/Self-Supervised L
 
 
 ## Professional Services 
-I am an organizer of [HANDS@ECCV2022](https://sites.google.com/view/hands2022/home) and [HANDS@ICCV23](https://sites.google.com/view/hands2023/).
+I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home) and [HANDS@ICCV23](https://sites.google.com/view/hands2023/).
 
 
 <span id="news"></span>
