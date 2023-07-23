@@ -95,7 +95,7 @@ body {
     vertical-align: top;
 }
 
-@media screen and (max-width: 250px) {
+@media screen and (max-width: 400px) {
   #layout-menu a:not(:first-child) {display: none;}
   #layout-menu a.icon {
     float: right;
