@@ -7,6 +7,7 @@ title: Home
     <div id="layout-menu">
         <a href="http://www.mu4yang.com">Home</a>
         <a href="#pub">Publications</a>
+        <a href="#pub">Projects</a>
     </div>
 </nav>
 

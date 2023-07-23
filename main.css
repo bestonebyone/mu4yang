@@ -81,7 +81,8 @@ body {
 #layout-menu a {
     list-style-type: none;
     float: left;
-    width: 13%;    
+    /* width -> menu item number */
+    width: 33%;    
     text-align: center;
     line-height: 1.5em;
     margin-left: 0.5em;
