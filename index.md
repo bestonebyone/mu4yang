@@ -28,11 +28,11 @@ title: Home
 
 <br>
 
-I am a Research Fellow under Prof. Angela Yao at National University of Singapore (NUS). Earlier I completed my PhD at University of Bonn.<br>
+I have joined Communication University of China (CUC). Earlier I completed my PhD at University of Bonn.<br>
 
 
 ##  Research Interests
-Hand/Human Pose Estimation, Multi-/Cross-Modal Learning, Semi-/Self-Supervised Learning, Binary Neural Networks and Neural Architecture Search.
+Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantization.
 
 
 ## Professional Services 
@@ -60,11 +60,13 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 - Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
 Rongyu Chen\#, **Linlin Yang**\#, Angela Yao<br>
 *International Conference on Computer Vision (ICCV)*, 2023.<br>
+[[pdf]](https://www.mu4yang.com/files/papers/MHEntropy.pdf) 
 
 
 - HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture<br>
 Jiayin Zhu, Zhuoran Zhao, **Linlin Yang**, Angela Yao<br>
 *German Conference on Pattern Recognition (GCPR)*, 2023.<br>
+[[arxiv]](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_MainTrack/007.pdf)
 
 
 - Anti-Bandit for Neural Architecture Search<br>
