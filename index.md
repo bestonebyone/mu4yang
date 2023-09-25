@@ -28,7 +28,7 @@ title: Home
 
 <br>
 
-I have joined Communication University of China (CUC). Earlier I completed my PhD at University of Bonn.<br>
+I have joined Communication University of China (CUC) since September 2023. Earlier I completed my PhD at University of Bonn.<br>
 
 
 ##  Research Interests
@@ -44,6 +44,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
 <li> Jul 2023: One paper is accepted to ICCV2023. </li>
 <li> Jul 2023: One paper is accepted to GCPR2023. </li>
 <li> May 2023: One paper is accepted to IJCV. </li>
