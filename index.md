@@ -44,6 +44,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Oct 2023: One paper is accepted to WACV2024. </li>
 <li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
 <li> Jul 2023: One paper is accepted to ICCV2023. </li>
 <li> Jul 2023: One paper is accepted to GCPR2023. </li>
@@ -61,7 +62,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 - Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
 Rongyu Chen\#, **Linlin Yang**\#, Angela Yao<br>
 *International Conference on Computer Vision (ICCV)*, 2023.<br>
-[[pdf]](https://www.mu4yang.com/files/papers/MHEntropy.pdf) 
+[[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_MHEntropy_Entropy_Meets_Multiple_Hypotheses_for_Pose_and_Shape_Recovery_ICCV_2023_paper.pdf) 
 
 
 - HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture<br>
