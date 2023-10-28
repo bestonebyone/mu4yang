@@ -113,5 +113,48 @@ Shihao Zhang, **Linlin Yang**, Michael Bi Mi, Xiaoxu Zheng, Angela Yao<br>
 *International Conference on Learning Representations (ICLR)*, 2023.<br>
 [[openreview]](https://openreview.net/forum?id=raU07GpP0P)  
 
+### 2022 and before
+
+- UV-Based 3D Hand-Object Reconstruction with Grasp Optimization<br>
+Ziwei Yu, **Linlin Yang**, You Xie, Ping Chen, Angela Yao<br>
+*British Machine Vision Conference (BMVC)*, 2022.<br>
+[[arxiv]](https://arxiv.org/abs/2211.13429)  
+
+- Dive Deeper Into Integral Pose Regression<br>
+Kerui Gu, **Linlin Yang**, Angela Yao<br>
+*International Conference on Learning Representations (ICLR)*, 2022.<br>
+[[openreview]](https://openreview.net/forum?id=vHVcB-ak3Si)  
+
+
+- Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation<br>
+Ziwei Yu, **Linlin Yang**, Shicheng Chen, Angela Yao<br> 
+*British Machine Vision Conference (BMVC)*, 2021.<br>
+[[arxiv]](https://arxiv.org/abs/2112.06389)  
+
+- SemiHand: Semi-supervised Hand Pose Estimation with Consistency<br> 
+**Linlin Yang**, Shicheng Chen, Angela Yao<br> 
+*International Conference on Computer Vision (ICCV)*, 2021.<br>
+[[pdf]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)  [[supp]](https://www.mu4yang.com/files/project/semihand/semihand-supp.pdf)
+
+- Removing the Bias of Integral Pose Regression<br> 
+Kerui Gu, **Linlin Yang**, Angela Yao<br>
+*International Conference on Computer Vision (ICCV)*, 2021.<br>
+[[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_Removing_the_Bias_of_Integral_Pose_Regression_ICCV_2021_paper.pdf)  
+
+- Cogradient Descent for Bilinear Optimization<br>
+Li’an Zhuo, Baochang Zhang, **Linlin Yang**, Hanlin Chen, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo<br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2020.<br>
+[[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuo_Cogradient_Descent_for_Bilinear_Optimization_CVPR_2020_paper.pdf)  
+
+- Aligning Latent Spaces for 3D Hand Pose Estimation<br> 
+**Linlin Yang**\#, Shile Li\#, Dongheui Lee and Angela Yao<br> 
+*International Conference on Computer Vision (ICCV)*, 2019.<br>
+[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Aligning_Latent_Spaces_for_3D_Hand_Pose_Estimation_ICCV_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Yang_Aligning_Latent_Spaces_ICCV_2019_supplemental.pdf)  [[poster]](https://www.mu4yang.com/files/posters/iccv19_poster_aligning.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Aligning.txt) 
+
+
+- Disentangling Latent Hands for Image Synthesis and Pose Estimation<br>
+**Linlin Yang** and Angela Yao<br>
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019.<br>
+[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf)  [[supp]](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yang_Disentangling_Latent_Hands_CVPR_2019_supplemental.pdf) [[poster]](https://www.mu4yang.com/files/posters/cvpr19_poster_dVAE.pdf) [[Quantitative Results]](https://www.mu4yang.com/files/data/AUC_Disentangling.txt)
 
 
