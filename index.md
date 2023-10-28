@@ -58,7 +58,14 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 </div>
 
 <span id="pub"></span>
-## Recent Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US)  
+## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US) 
+
+### 2023
+- Synthetic-to-Real Pose Estimation with Geometric Reconstruction<br>
+Qiuxia Lin, Kerui Gu, Linlin Yang, Angela Yao<br>
+*Advances in Neural Information Processing Systems  (NeurIPS)*, 2023.<br>
+
+
 - Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
 Rongyu Chen\#, **Linlin Yang**\#, Angela Yao<br>
 *International Conference on Computer Vision (ICCV)*, 2023.<br>
