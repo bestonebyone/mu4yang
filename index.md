@@ -62,7 +62,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 
 ### 2023
 - Synthetic-to-Real Pose Estimation with Geometric Reconstruction<br>
-Qiuxia Lin, Kerui Gu, Linlin Yang, Angela Yao<br>
+Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2023.<br>
 
 
