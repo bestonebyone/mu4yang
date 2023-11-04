@@ -60,7 +60,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 <span id="pub"></span>
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US) 
 
-<a href="#pub2024"><b>2024</b></a>&nbsp&nbsp·&nbsp&nbsp<a href="#pub2023"><b>2023</b></a>&nbsp&nbsp·&nbsp&nbsp<a href="#pub2022"><b>2022 and before</b></a>
+<a href="#pub2024"><b>2024</b></a> &nbsp· &nbsp<a href="#pub2023"><b>2023</b></a> &nbsp · &nbsp <a href="#pub2022"><b>2022 and before</b></a>
 
 <span id="pub2024"></span>
 ### 2024
