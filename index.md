@@ -60,10 +60,22 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 <span id="pub"></span>
 ## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US) 
 
+<a href="#pub2024">2024</a>  <a href="#pub2023">2023</a>  <a href="#pub2022">2022 and before</a>
+
+### 2024
+<span id="pub2024"></span>
+- Rethinking Visibility in Human Pose Estimation: Occluded Pose Reasoning via Transformers<br>
+Pengzhan Sun, Kerui Gu, Yunsong Wang, **Linlin Yang**, Angela Yao<br>
+*Winter Conference on Applications of Computer Vision (WACV)* 2024.<br>
+
+
+
 ### 2023
+<span id="pub2023"></span>
 - Synthetic-to-Real Pose Estimation with Geometric Reconstruction<br>
 Qiuxia Lin, Kerui Gu, **Linlin Yang**, Angela Yao<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2023.<br>
+[[openreview]](https://openreview.net/forum?id=HvhagNdf5z)  
 
 
 - Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
@@ -114,6 +126,7 @@ Shihao Zhang, **Linlin Yang**, Michael Bi Mi, Xiaoxu Zheng, Angela Yao<br>
 [[openreview]](https://openreview.net/forum?id=raU07GpP0P)  
 
 ### 2022 and before
+<span id="pub2022"></span>
 
 - UV-Based 3D Hand-Object Reconstruction with Grasp Optimization<br>
 Ziwei Yu, **Linlin Yang**, You Xie, Ping Chen, Angela Yao<br>
