@@ -58,7 +58,6 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 </div>
 
 <span id="pub"></span>
-## Publications [[Google Scholar]](https://scholar.google.com.hk/citations?user=gI55gF0AAAAJ&hl=en-US) 
 ## Publications [[2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
 
 <h3 id="pub2024">2024</h3>
