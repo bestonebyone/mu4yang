@@ -44,6 +44,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Dec 2023: One paper is accepted to AAAI2024. </li>
 <li> Oct 2023: One paper is accepted to WACV2024. </li>
 <li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
 <li> Jul 2023: One paper is accepted to ICCV2023. </li>
@@ -61,9 +62,15 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 ## Publications [[2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
 
 <h3 id="pub2024">2024</h3>
+- AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries<br>
+Runqi Wang, Huixin Sun, **Linlin Yang**, Shaohui Lin, Chuanjian Liu, Yan Gao, Yao Hu, Baochang Zhang<br>
+*AAAI Conference on Artificial Intelligence (AAAI)* 2024.<br>
+
+
 - Rethinking Visibility in Human Pose Estimation: Occluded Pose Reasoning via Transformers<br>
 Pengzhan Sun, Kerui Gu, Yunsong Wang, **Linlin Yang**, Angela Yao<br>
 *Winter Conference on Applications of Computer Vision (WACV)* 2024.<br>
+[[pdf]](https://pengzhansun.github.io/files/1484.pdf)
 
 
 <h3 id="pub2023">2023</h3>
