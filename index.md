@@ -28,7 +28,7 @@ title: Home
 
 <br>
 
-I have joined Communication University of China (CUC) since September 2023. Earlier I completed my PhD at University of Bonn.<br>
+I have joined Communication University of China (CUC). Earlier I completed my PhD at University of Bonn.<br>
 
 
 ##  Research Interests
@@ -59,7 +59,16 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 </div>
 
 <span id="pub"></span>
-## Publications [[2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
+## Publications [[Preprint](#Preprint) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
+
+
+
+<h3 id="Preprint">Preprint</h3>
+- Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
+Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao<br>
+*arXiv*, 2023.<br>
+[[arXiv]](https://arxiv.org/abs/2403.16428) 
+
 
 <h3 id="pub2024">2024</h3>
 - AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries<br>
