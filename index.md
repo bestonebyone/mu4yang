@@ -44,6 +44,7 @@ I am an organizer of [HANDS@ECCV22](https://sites.google.com/view/hands2022/home
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Mar 2024: I will serve as an area chair of NeurIPS2024. </li>
 <li> Dec 2023: One paper is accepted to AAAI2024. </li>
 <li> Oct 2023: One paper is accepted to WACV2024. </li>
 <li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
