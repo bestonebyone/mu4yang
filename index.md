@@ -54,9 +54,9 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, BMVC, WACV, ACCV<b
 <li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
 <li> Jul 2023: One paper is accepted to ICCV2023. </li>
 <li> Jul 2023: One paper is accepted to GCPR2023. </li>
-<li> May 2023: One paper is accepted to IJCV. </li>
+<li> May 2023: One paper is accepted to IJCV2023. </li>
 <li> Mar 2023: We will host 7th HANDS workshop in conjunction with ICCV23! </li>
-<li> Mar 2023: One paper is accepted to TPAMI. </li>
+<li> Mar 2023: One paper is accepted to TPAMI2023. </li>
 <li> Feb 2023: Three papers are accepted to CVPR2023. </li>
 <li> Jan 2023: One paper is accepted to ICLR2023. </li>
 <li> Nov 2022: I have successfully completed my PhD defense. </li>
