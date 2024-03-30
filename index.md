@@ -77,8 +77,9 @@ Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shiha
 
 <h3 id="pub2024">2024</h3>
 - AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries<br>
-Runqi Wang, Huixin Sun, **Linlin Yang**, Shaohui Lin, Chuanjian Liu, Yan Gao, Yao Hu, Baochang Zhang<br>
+Runqi Wang, Huixin Sun, **Linlin Yang**\*, Shaohui Lin, Chuanjian Liu, Yan Gao, Yao Hu, Baochang Zhang<br>
 *AAAI Conference on Artificial Intelligence (AAAI)* 2024.<br>
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/29487)
 
 
 - Rethinking Visibility in Human Pose Estimation: Occluded Pose Reasoning via Transformers<br>
