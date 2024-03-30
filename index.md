@@ -41,8 +41,6 @@ Workshop Organizer: <a href="https://sites.google.com/view/hands2022/home">HANDS
 Area Chair: NeurIPS2024<br>
 Reviewer: CVPR, ICCV, ECCV, ICLR, ICML, NeurIPS<br>
 
-
-
 <span id="news"></span>
 ## Recent News
 
