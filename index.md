@@ -69,9 +69,15 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, BMVC, WACV, ACCV<b
 
 
 <h3 id="Preprint">Preprint</h3>
+- InstructHumans: Editing Animated 3D Human Textures with Instructions<br>
+Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
+*arXiv*, 2024.<br>
+[[arXiv]](https://arxiv.org/abs/2404.04037) 
+
+
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
 Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao<br>
-*arXiv*, 2023.<br>
+*arXiv*, 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2403.16428) 
 
 
