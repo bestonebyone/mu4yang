@@ -38,7 +38,7 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 ## Professional Services 
 
 <div style="line-height: 1.8;">
-Workshop Organizer: <a href="https://sites.google.com/view/hands2022/home">HANDS@ECCV22</a>, <a href="https://sites.google.com/view/hands2023/">HANDS@ICCV23</a><br>
+Workshop Organizer: HANDS@ECCV24, <a href="https://sites.google.com/view/hands2023/">HANDS@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">HANDS@ECCV22</a><br>
 Area Chair: NeurIPS24<br>
 Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, BMVC, WACV, ACCV<br>
 </div>
@@ -48,6 +48,7 @@ Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI, IJCAI, BMVC, WACV, ACCV<b
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Apr 2024: We will host 8th HANDS workshop in conjunction with ECCV24! See you at Milano.</li>
 <li> Mar 2024: I will serve as an area chair of NeurIPS2024. </li>
 <li> Dec 2023: One paper is accepted to AAAI2024. </li>
 <li> Oct 2023: One paper is accepted to WACV2024. </li>
