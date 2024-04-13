@@ -42,7 +42,7 @@ Workshop Organizer: the HANDS workshop series (@ECCV24, <a href="https://sites.g
 Area Chair: NeurIPS(2024) <br>
 Reviewer: 
 CVPR(2020,2021,2022,2023,2024), ICCV(2019,2021,2023), ECCV(2022,2024), NeurIPS(2023), ICLR(2024),<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ICML(2024), AAAI(2022,2024), WACV(2022,2024), ACCV(2022)<br>
 </div>
 
