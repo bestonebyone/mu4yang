@@ -39,9 +39,8 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 
 <div style="line-height: 1.8;">
 Workshop Organizer: the HANDS workshop series (@ECCV24, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: NeurIPS(2024) <br>
-Reviewer: CVPR(2020,2021,2022,2023,2024), ICCV(2019,2021,2023), ECCV(2022,2024), NeurIPS(2023), ICLR(2024),<br>
-<div style="display:inline; visibility: hidden;">Reviewer:</div> ICML(2024), AAAI(2022,2024), WACV(2022,2024), ACCV(2022)<br>
+Area Chair: NeurIPS24 <br>
+Reviewer: CVPR(20-24), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24), AAAI(22,24), WACV(22,24), ACCV(22)<br>
 </div>
 
 <span id="news"></span>
