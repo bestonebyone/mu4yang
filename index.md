@@ -51,6 +51,7 @@ Reviewer: CVPR(20-24), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 <li> Apr 2024: We will host 8th HANDS workshop in conjunction with ECCV24! See you in Milano.</li>
 <li> Mar 2024: I will serve as an area chair of NeurIPS2024. </li>
 <li> Dec 2023: One paper is accepted to AAAI2024. </li>
+<li> Dec 2023: I am on <a href="https://neurips.cc/Conferences/2023/ProgramCommittee">the list of Top Reviewers of NeurIPS2023</a>. </li>
 <li> Oct 2023: One paper is accepted to WACV2024. </li>
 <li> Sep 2023: One paper is accepted to NeurIPS2023. </li>
 <li> Jul 2023: One paper is accepted to ICCV2023. </li>
