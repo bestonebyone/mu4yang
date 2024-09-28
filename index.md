@@ -48,6 +48,7 @@ Reviewer: CVPR(20-24), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Sep 2024: One paper is accepted to NeurIPS2024.</li>
 <li> May 2024: One paper is accepted to Neurocomputing2024.</li>
 <li> Apr 2024: We will host 8th HANDS workshop in conjunction with ECCV24! See you in Milano.</li>
 <li> Mar 2024: I will serve as an area chair of NeurIPS2024. </li>
@@ -80,6 +81,10 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 
 
 <h3 id="pub2024">2024</h3>
+
+- CLIP in Mirror: Disentangling text from visual images through reflection<br>
+Tiancheng Wang, Yuguang Yang, Linlin Yang, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
+*Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
 
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
 Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao<br>
