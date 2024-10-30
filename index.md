@@ -83,7 +83,7 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 <h3 id="pub2024">2024</h3>
 
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
-Tiancheng Wang, Yuguang Yang, Linlin Yang, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
+Tiancheng Wang, Yuguang Yang, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
 
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
@@ -92,7 +92,7 @@ Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shiha
 [[arXiv]](https://arxiv.org/abs/2403.16428) 
 
 - DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration<br>
-Yuguang Yang, Runtang Guo, Sheng Wu, Yimi Wang, **Linlin Yang**, Bo Fan, Jilong Zhong, Juan Zhang, Baochang Zhang<br>
+Yuguang Yang\#, Runtang Guo\#, Sheng Wu, Yimi Wang, **Linlin Yang**, Bo Fan, Jilong Zhong, Juan Zhang, Baochang Zhang<br>
 *Neurocomputing* 2024.<br>
 [[arxiv]](https://arxiv.org/abs/2405.18882)
 
