@@ -94,7 +94,7 @@ Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shiha
 - DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration<br>
 Yuguang Yang\#, Runtang Guo\#, Sheng Wu, Yimi Wang, **Linlin Yang**, Bo Fan, Jilong Zhong, Juan Zhang, Baochang Zhang<br>
 *Neurocomputing* 2024.<br>
-[[arxiv]](https://arxiv.org/abs/2405.18882)
+[[arXiv]](https://arxiv.org/abs/2405.18882)
 
 - AQ-DETR: Low-Bit Quantized Detection Transformer with Auxiliary Queries<br>
 Runqi Wang, Huixin Sun, **Linlin Yang**\*, Shaohui Lin, Chuanjian Liu, Yan Gao, Yao Hu, Baochang Zhang<br>
