@@ -83,7 +83,7 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 <h3 id="pub2024">2024</h3>
 
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
-Tiancheng Wang, Yuguang Yang, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
+Tiancheng Wang\#, Yuguang Yang\#, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
 
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
