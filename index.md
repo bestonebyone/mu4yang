@@ -85,6 +85,7 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
 Tiancheng Wang\#, Yuguang Yang\#, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
 *Advances in Neural Information Processing Systems  (NeurIPS)*, 2024.<br>
+[[openreview]](https://openreview.net/forum?id=FYm8coxdiR) 
 
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects<br>
 Zicong Fan\#, Takehiko Ohkawa\#, **Linlin Yang**\#, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao<br>
