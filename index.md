@@ -39,7 +39,7 @@ Hand/Human Pose Estimation, Semi-/Self-Supervised Learning and Network Quantizat
 
 <div style="line-height: 1.8;">
 Workshop Organizer: the HANDS workshop series (<a href="http://hands-workshop.org">@ECCV24</a>, <a href="https://sites.google.com/view/hands2023/">@ICCV23</a>, <a href="https://sites.google.com/view/hands2022/home">@ECCV22</a>) <br>
-Area Chair: NeurIPS24 <br>
+Area Chair: NeurIPS24, ICML25 <br>
 Reviewer: CVPR(20-24), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24), AAAI(22,24), WACV(22,24), ACCV(22)<br>
 </div>
 
@@ -48,6 +48,8 @@ Reviewer: CVPR(20-24), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 
 <div style="height: 200px; overflow: auto;">
 <ul>
+<li> Dec 2024: I will serve as an area chair of ICML2025.</li>
+<li> Dec 2024: One paper is accepted to TIP.</li>
 <li> Sep 2024: One paper is accepted to NeurIPS2024.</li>
 <li> May 2024: One paper is accepted to Neurocomputing2024.</li>
 <li> Apr 2024: We will host 8th HANDS workshop in conjunction with ECCV24! See you in Milano.</li>
