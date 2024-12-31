@@ -71,7 +71,7 @@ Reviewer: CVPR(20-25), ICCV(19-23), ECCV(22-24), NeurIPS(23), ICLR(24), ICML(24)
 </div>
 
 <span id="pub"></span>
-## Publications [[Preprint](#Preprint) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
+## Publications [[Preprint](#Preprint) - [2025](#pub2025) - [2024](#pub2024) - [2023](#pub2023) - [2022 and before](#pub2022)]
 
 
 
@@ -83,7 +83,19 @@ Jiayin Zhu, **Linlin Yang**, Angela Yao<br>
 
 
 
+<h3 id="pub2025">2025</h3>
+
+- DTR: Dynamic Tree-Ring Watermarking Framework for Diffusion-Based Video Generation<br>
+Shunyang Zeng\#, **Linlin Yang**\#, Jin Yang, Yezhen Wang, Tianyu Gao<br>
+*International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.<br>
+
+
 <h3 id="pub2024">2024</h3>
+
+- Normalizing Batch Normalization for Long-Tailed Recognition<br>
+Yuxiang Bao\#, Guoliang Kang\#, **Linlin Yang**, Xiaoyue Duan, Bo Zhao, Baochang Zhang<br>
+*IEEE Transactions on Image Processing  (TIP)*, 2024.<br>
+
 
 - CLIP in Mirror: Disentangling text from visual images through reflection<br>
 Tiancheng Wang\#, Yuguang Yang\#, **Linlin Yang**\*, Shaohui Lin, Juan Zhang, Guodong Guo, Baochang Zhang<br>
